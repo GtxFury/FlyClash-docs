@@ -22,7 +22,7 @@ FlyClash的仪表盘采用模块化设计，您可以根据需要自定义仪表
 
 长按住卡片的标题区域，卡片微微弹起，拖拽卡片即可调整卡片顺序
 
-![](/tutorial/switch-card.png){style="max-width:50%;"}
+![](/tutorial/switch-card.png)
 
 ## 删除卡片
 
