@@ -10,19 +10,19 @@ FlyClash的仪表盘采用模块化设计，您可以根据需要自定义仪表
 
 点击右上角的`铅笔图标` 进入编辑模式。 
 
-![](/tutorial/dashboard-edit.png)
+![](/tutorial/dashboard-edit.png){style="max-width:50%;"}
 
 ### 添加添加小组件
 
 点击右上角的`添加` 添加小组件卡片。 
 
-![](/tutorial/add-card.png)
+![](/tutorial/add-card.png){style="max-width:50%;"}
 
 ## 排序卡片
 
 长按住卡片的标题区域，卡片微微弹起，拖拽卡片即可调整卡片顺序
 
-![](/tutorial/switch-card.png)
+![](/tutorial/switch-card.png){style="max-width:50%;"}
 
 ## 删除卡片
 
