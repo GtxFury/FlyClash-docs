@@ -10,7 +10,7 @@ export default defineConfig({
     nav: [
       { text: '简介', link: '/guide/getting-started' },
       { text: '使用教程', link: '/guide/tutorial' },
-      { text: '进阶教程', link: '/guide/advanced/' }
+      { text: '进阶教程', link: '/guide/advanced/dashboard.md' }
     ],
     sidebar: {
       '/guide/': [
@@ -30,7 +30,7 @@ export default defineConfig({
       ]
     },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/GtxFury/FlyClash-docs' }
+      { icon: 'github', link: 'https://github.com/GtxFury/FlyClash-Android' }
     ]
   }
 })
