@@ -1,0 +1,15 @@
+<svg width="720" height="420" viewBox="0 0 720 420" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="420" fill="#0f172a" rx="24"/>
+  <rect x="40" y="60" width="640" height="300" rx="22" fill="#f1f5f9"/>
+  <text x="70" y="110" font-size="32" font-family="'Segoe UI', Arial, sans-serif" fill="#0f172a" font-weight="600">配置 · 新增</text>
+  <g font-family="'Segoe UI', Arial, sans-serif" font-size="22" fill="#0f172a">
+    <text x="70" y="170">1. 点击右下角 <tspan font-weight="700">+</tspan> 按钮</text>
+    <text x="70" y="210">2. 选择第三项 <tspan font-weight="700">URL</tspan></text>
+    <text x="70" y="250">3. 粘贴订阅链接并提交</text>
+  </g>
+  <rect x="420" y="150" width="220" height="60" rx="12" fill="#38bdf8"/>
+  <text x="470" y="188" font-size="26" font-family="'Segoe UI', Arial, sans-serif" fill="#0f172a" font-weight="700">URL</text>
+  <rect x="420" y="230" width="220" height="70" rx="12" fill="#e2e8f0" stroke="#38bdf8" stroke-width="2"/>
+  <text x="440" y="276" font-size="20" font-family="'Courier New', monospace" fill="#0f172a">https://example.com/sub.txt</text>
+  <text x="70" y="320" font-size="20" font-family="'Segoe UI', Arial, sans-serif" fill="#475569">完成后订阅即会出现在配置列表中</text>
+</svg>

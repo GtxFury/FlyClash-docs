@@ -1,0 +1,14 @@
+<svg width="720" height="420" viewBox="0 0 720 420" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="420" fill="#0f172a" rx="24"/>
+  <rect x="60" y="60" width="600" height="300" rx="18" fill="#1e293b"/>
+  <text x="90" y="110" font-size="30" font-family="'Segoe UI', Arial, sans-serif" fill="#f1f5f9" font-weight="600">代理节点</text>
+  <g font-family="'Segoe UI', Arial, sans-serif" font-size="22" fill="#cbd5f5">
+    <text x="90" y="160">✔ 自动选择 · 最佳延迟</text>
+    <text x="90" y="200">○ 日本 Tokyo · 45ms</text>
+    <text x="90" y="240">○ 新加坡 SG · 60ms</text>
+    <text x="90" y="280">○ 美国 LA · 120ms</text>
+  </g>
+  <rect x="420" y="150" width="180" height="46" rx="8" fill="#38bdf8"/>
+  <text x="456" y="181" font-size="20" font-family="'Segoe UI', Arial, sans-serif" fill="#0f172a" font-weight="700">自动选择</text>
+  <text x="90" y="330" font-size="20" font-family="'Segoe UI', Arial, sans-serif" fill="#94a3b8">需要手动切换时，点击目标节点即可立即生效</text>
+</svg>

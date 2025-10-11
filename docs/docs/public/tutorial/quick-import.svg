@@ -1,0 +1,10 @@
+<svg width="720" height="420" viewBox="0 0 720 420" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="420" fill="#0f172a" rx="24"/>
+  <rect x="40" y="60" width="640" height="260" rx="18" fill="#1e293b"/>
+  <text x="60" y="110" font-size="36" font-family="'Segoe UI', Arial, sans-serif" fill="#f8fafc" font-weight="600">v2board 面板</text>
+  <rect x="60" y="160" width="320" height="70" rx="12" fill="#38bdf8"/>
+  <text x="80" y="205" font-size="30" font-family="'Segoe UI', Arial, sans-serif" fill="#0f172a" font-weight="700">一键订阅导入 Clash</text>
+  <text x="60" y="280" font-size="22" font-family="'Segoe UI', Arial, sans-serif" fill="#cbd5f5">点击此按钮即可自动导入订阅</text>
+  <polygon points="410,195 455,180 455,210" fill="#38bdf8"/>
+  <text x="60" y="340" font-size="20" font-family="'Segoe UI', Arial, sans-serif" fill="#94a3b8">FlyClash 会自动唤起并写入你的订阅配置</text>
+</svg>

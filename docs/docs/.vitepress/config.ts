@@ -8,14 +8,16 @@ export default defineConfig({
   themeConfig: {
     logo: '/logo.png',
     nav: [
-      { text: '指南', link: '/guide/getting-started' }
+      { text: '简介', link: '/guide/getting-started' },
+      { text: '使用教程', link: '/guide/tutorial' }
     ],
     sidebar: {
       '/guide/': [
         {
           text: '指南',
           items: [
-            { text: '快速开始', link: '/guide/getting-started' }
+            { text: '简介', link: '/guide/getting-started' },
+            { text: '使用教程', link: '/guide/tutorial' }
           ]
         }
       ]
