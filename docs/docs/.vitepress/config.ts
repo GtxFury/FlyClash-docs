@@ -24,7 +24,7 @@ export default defineConfig({
         {
           text: '进阶教程',
           items: [
-            { text: '概览', link: '/guide/advanced/' }
+            { text: '仪表盘', link: '/guide/advanced/dashboard.md' }
           ]
         }
       ]
