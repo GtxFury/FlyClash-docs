@@ -17,7 +17,7 @@ hero:
       link: https://github.com/GtxFury/FlyClash-docs
 features:
   - title: 快速上手
-    details: 快速了解 FlyClash 的核心模块、能力与版本规划。
+    details: 快速上手学习如何使用FlyClash
   - title: 使用技巧
     details: 了解一些使用FlyClash的小技巧
   - title: 资源分享
