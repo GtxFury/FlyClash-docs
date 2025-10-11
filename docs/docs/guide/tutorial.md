@@ -12,7 +12,7 @@ title: 使用教程
 
 大多数机场面板都提供一键导入 Clash 的入口。以 v2board 面板为例，只需点击首页的 `一键订阅导入 Clash` 按钮，FlyClash 会自动识别并写入你的订阅配置。
 
-![v2board 面板的一键导入按钮展示](/tutorial/quick-import.svg)
+![v2board 面板的一键导入按钮展示](/tutorial/quick-import.png)
 
 ### 手动复制订阅导入
 
