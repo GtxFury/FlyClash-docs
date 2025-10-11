@@ -10,7 +10,7 @@ hero:
     alt: FlyClash logo
   actions:
     - theme: brand
-      text: 快速开始
+      text: 简介
       link: /guide/getting-started
     - theme: alt
       text: 浏览 GitHub
@@ -19,6 +19,6 @@ features:
   - title: 快速上手
     details: 快速了解 FlyClash 的核心模块、能力与版本规划。
   - title: 使用技巧
-    details: 覆盖从开发到生产的部署流程，确保团队环境一致。
+    details: 了解一些使用FlyClash的小技巧
   - title: 资源分享
-    details: 提供常见运维动作与排障建议，减少重复沟通成本。
+    details: 提供脚本，图标等资源链接，帮助您快速设置。
