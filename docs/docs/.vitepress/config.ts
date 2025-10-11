@@ -9,7 +9,8 @@ export default defineConfig({
     logo: '/logo.png',
     nav: [
       { text: '简介', link: '/guide/getting-started' },
-      { text: '使用教程', link: '/guide/tutorial' }
+      { text: '使用教程', link: '/guide/tutorial' },
+      { text: '进阶教程', link: '/guide/advanced/' }
     ],
     sidebar: {
       '/guide/': [
@@ -18,6 +19,12 @@ export default defineConfig({
           items: [
             { text: '简介', link: '/guide/getting-started' },
             { text: '使用教程', link: '/guide/tutorial' }
+          ]
+        },
+        {
+          text: '进阶教程',
+          items: [
+            { text: '概览', link: '/guide/advanced/' }
           ]
         }
       ]
