@@ -4,12 +4,10 @@ title: 高级设置
 # 高级设置
 FlyClash Android 提供了强大的功能以及设置选项，下面将介绍一些应用的高级设置项。
 
-### 自动控制
+## 自动控制
 
-::: tips
 自动控制功能可以实现连接到特定的WiFi，断开服务，或连接到移动数据的时候自动打开服务。
 帮助软路由用户无感使用软件。
-:::
 
 进入设置页面，点击应用设置
 
@@ -31,7 +29,7 @@ FlyClash Android 提供了强大的功能以及设置选项，下面将介绍一
 
 ![](/tutorial/setting4.png){style="max-width:50%;"}
 
-### 轻量模式
+## 轻量模式
 
 ![](/tutorial/setting5.png){style="max-width:50%;"}
 
