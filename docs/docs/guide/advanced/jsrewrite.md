@@ -25,7 +25,7 @@ FlyClash Android 支持脚本覆写功能，您可以通过js脚本或者yaml轻
 
 完成后点击保存，点击圆圈即可激活该覆写配置，取消同理。
 
-![](/tutorial/proxy-icon2.png){style="max-width:50%;"}
+![](/tutorial/rewrite4.png){style="max-width:50%;"}
 
 ### 覆写脚本推荐
 
