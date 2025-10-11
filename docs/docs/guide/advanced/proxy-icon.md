@@ -14,15 +14,15 @@ FlyClash的代理页面支持Clash Meta icon字段，当配置文件中含有相
 
 您还可以通过FlyClash 代理页面的代理组图标功能手动添加图标，当图标规则匹配中时，所有代理组都将显示您设置的图标。
 
-![](/tutorial/proxy-icon.png)
+![](/tutorial/proxy-icon.png){style="max-width:50%;"}
 
 进入代理页面，点击右上角进入代理组图标功能界面
 
-![](/tutorial/proxy-icon2.png)
+![](/tutorial/proxy-icon2.png){style="max-width:50%;"}
 
 点击右上角的添加按钮添加代理组图标
 
-![](/tutorial/proxy-icon2.png)
+![](/tutorial/proxy-icon2.png){style="max-width:50%;"}
 
 按照提示输入图标规则等信息
 
