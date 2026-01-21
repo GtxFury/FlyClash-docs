@@ -28,7 +28,7 @@ FlyClash Android 内置了强大的 AI 助手功能，可以通过自然语言�
 | v1/chat | OpenAI 兼容格式 | OpenAI、各类兼容 API |
 
 ::: tip
-推荐使用 Claude 格式，工具调用更稳定。如果使用 OpenAI 兼容格式且 API 不支持原生 Function Calling，可以开启「工具调用兼容模式」。
+API 模型需要支持 Function Calling 能力，推荐使用 Claude 格式体验最佳。如果使用 OpenAI 兼容格式且 API 不支持原生 Function Calling，可以尝试使用「工具调用兼容模式」，默认建议关闭并使用支持 Function Calling 的 API 模型。
 :::
 
 ## 功能概览
@@ -422,20 +422,13 @@ AI 助手界面提供了四个快捷按钮：
 
 ### 工具调用兼容n如果使用的 OpenAI 兼容 API 不支持原生 Function Calling，可以开启此选项。开启后会使用文本解析的方式提取工具调用。
 
-### MCP 服务
-
-AI 助手支持 MCP（Model Context Protocol）服务，可以将工具能力暴露给外部客户端。
-
-::: warning
-MCP 服务功能为实验性功能，请谨慎使用。
-:::
-
 ## 常见问题
 
 ### API Key 从哪里获取？
 
 - **Anthropic API**：访问 [console.anthropic.com](https://console.anthropic.com) 注册并获取
 - **OpenAI API**：访问 [platform.openai.com](https://platform.openai.com) 注册并获取
+- **NVIDIA 构建平台**：访问 [build.nvidia.com](https://build.nvidia.com/explore/discover?integrate_nim=true&hosted_api=true&modal=integrate-nim) 注册可免费使用模型（限制 RPM 40）
 - 也可以使用各类兼容的第三方 API 服务
 
 ### 为什么工具调用失败？
@@ -464,4 +457,5 @@ MCP 服务功能为实验性功能，请谨慎使用。
 - AI 助手具有修改配置文件的能力，请谨慎操作
 - 建议在修改重要配置前先备份
 - 不要将 API Key 分享给他人
+- 请使用自己信任的 API 供应商，使用未知的第三方供应商有泄露配置信息的风险
 :::
