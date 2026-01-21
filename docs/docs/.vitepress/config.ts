@@ -27,9 +27,8 @@ export default defineConfig({
             { text: '仪表盘', link: '/guide/advanced/dashboard.md' },
             { text: '代理组图标', link: '/guide/advanced/proxy-icon.md' },
             { text: '脚本覆写', link: '/guide/advanced/jsrewrite.md' },
-            { text: '高级设置', link: '/guide/advanced/setting.md' }
-            //{ text: '订阅转换器', link: '/guide/advanced/dashboard.md' },            
-            //{ text: '高级设置', link: '/guide/advanced/dashboard.md' }
+            { text: '高级设置', link: '/guide/advanced/setting.md' },
+            { text: 'AI 助手', link: '/guide/advanced/ai-agent.md' }
           ]
         }
       ]
