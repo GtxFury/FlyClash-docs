@@ -20,8 +20,6 @@ FlyClash Android 内置了强大的 AI 助手功能，可以通过自然语言�
 3. 填写 API Key 和 Base URL
 4. 选择模型并保存
 
-![](/tutorial/ai-agent-settings.png){style="max-width:50%;"}
-
 ### 支持的 API 格式
 
 | 格式 | 说明 | 推荐服务商 |
