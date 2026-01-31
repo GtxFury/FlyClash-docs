@@ -18,7 +18,7 @@ FlyClash Android 内置了强大的 AI 助手功能，可以通过自然语言�
 1. 点击右上角设置图标进入「AI 助手设置」
 2. 选择 API 格式（推荐使用 Claude v1/message 格式）
 3. 填写 API Key 和 Base URL
-4. 选择模型并保存
+4. 选择模型并保存   
 
 ### 支持的 API 格式
 

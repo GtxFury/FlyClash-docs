@@ -30,6 +30,12 @@ export default defineConfig({
             { text: '高级设置', link: '/guide/advanced/setting.md' },
             { text: 'AI 助手', link: '/guide/advanced/ai-agent.md' }
           ]
+        },
+        {
+          text: '常用链接',
+          items: [
+            { text: '推荐机场', link: '/guide/sponsor' }
+          ]
         }
       ]
     },
