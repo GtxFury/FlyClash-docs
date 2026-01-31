@@ -4,11 +4,7 @@
 请咨询 [https://t.me/FlyClash_bot](https://t.me/FlyClash_bot)
 :::
 
-## 使用说明
 
-1. 注册并复制订阅链接
-2. 在 FlyClash 中添加配置
-3. 开启连接按钮
 
 :::warning 免责声明
 排名不分先后，请自行试用。本页面仅供参考，使用前请自行判断服务质量。
@@ -18,44 +14,17 @@
 
 ## 机场列表
 
-### 示例机场 1
+### 飓风传输
 
-**[示例机场 1](https://example.com)**
+**[飓风传输](https://www.stromsend.xyz/#/register?code=tIhaARYV)**
 
 - ✈️ 高速稳定，全球节点覆盖
-- 💰 价格实惠，多种套餐可选
-- 🎁 新用户注册送流量
+- 💰 价格实惠，每月低至5元起
 - 🔒 安全加密，保护隐私
 
-[点击前往](https://example.com)
+[点击前往](https://www.stromsend.xyz/#/register?code=tIhaARYV)
 
----
 
-### 示例机场 2
-
-**[示例机场 2](https://example.com)**
-
-- 🚀 专线节点，低延迟
-- 📱 支持多设备同时在线
-- 💎 企业级服务，稳定可靠
-- 🎯 7x24 小时客服支持
-
-[点击前往](https://example.com)
-
----
-
-### 示例机场 3
-
-**[示例机场 3](https://example.com)**
-
-- 🌍 全球节点，覆盖主流地区
-- ⚡ 高速带宽，流畅体验
-- 🎉 优惠活动，性价比高
-- 🛡️ 安全稳定，值得信赖
-
-[点击前往](https://example.com)
-
----
 
 :::info 合作通道
 如需在此页面推荐您的服务，请通过 [Telegram](https://t.me/FlyClash_bot) 联系我们。
