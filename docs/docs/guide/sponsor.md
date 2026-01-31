@@ -1,11 +1,5 @@
 # 推荐机场
 
-:::tip 想要在此推荐您的服务？
-请咨询 [https://t.me/FlyClash_bot](https://t.me/FlyClash_bot)
-:::
-
-
-
 :::warning 免责声明
 排名不分先后，请自行试用。本页面仅供参考，使用前请自行判断服务质量。
 :::
