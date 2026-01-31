@@ -7,11 +7,6 @@
 ---
 
 
-## 赞助商列表
-
----
-
-
 ### 飓风传输
 
 **[飓风传输](https://www.stromsend.xyz/#/register?code=tIhaARYV)**
