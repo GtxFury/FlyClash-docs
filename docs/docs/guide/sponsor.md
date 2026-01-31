@@ -12,7 +12,7 @@
 
 **[飓风传输](https://www.stromsend.xyz/#/register?code=tIhaARYV)**
 
-- ✈️ 高速稳定，全球节点覆盖
+- ✈️ 高速稳定，流媒体服务解锁
 - 💰 价格实惠，每月低至5元起
 - 🔒 安全加密，保护隐私
 
